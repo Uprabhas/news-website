@@ -1,0 +1,8 @@
+#container{
+    background-image: linear-gradient(100deg, rgb(41, 96, 151),white,rgba(192, 54, 54, 0.587),transparent);
+}
+
+
+#navbar{
+    background-image: linear-gradient(70deg, rgb(144, 55, 55),rgb(216, 150, 150));
+}
